@@ -1,0 +1,14 @@
+# Pull Req. Title. Complete [brief task description].
+task: CERB-____.
+
+# What task was completed and why?
+Explain the changes:
+- 
+
+# Any dependencies or follow-ups? [e.g., None, or mention if this task impacts other modules].
+Side effects due to changes (Optional):
+- 
+
+# Story/Bug/Task Number:
+Resolves:
+- CERB-____

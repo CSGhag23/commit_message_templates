@@ -1,0 +1,14 @@
+# Pull Req. Title. Refactor [brief description of refactored code].
+code-ref: CERB-____.
+
+# What was refactored and why?
+Explain the changes:
+- 
+
+# Any risks or areas to validate? [e.g., Ensure no functionality is broken, test edge cases].
+Side effects due to changes (Optional):
+- 
+
+# Story/Bug/Task Number:
+Resolves:
+- CERB-____
