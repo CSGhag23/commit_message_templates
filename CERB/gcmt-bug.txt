@@ -1,0 +1,14 @@
+# Pull Req. Title. Resolve [brief bug description].
+fix: CERB-____.
+
+# What was the issue and how was it fixed?
+Explain the changes:
+- 
+
+# Any areas to double-check? [e.g., Check edge cases, regression in related modules].
+Side effects due to changes (Optional):
+- 
+
+# Story/Bug/Task Number:
+Resolves:
+- CERB-____
